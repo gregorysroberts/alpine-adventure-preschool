@@ -1,4 +1,17 @@
 body {
 	font-family: Open Sans Condensed, Arial, Sans Serif;
-	padding: 0 2.5em;
+	padding: 2.5em 2.5em;
+}
+.social {
+	text-align: right;
+}
+.navbar {
+	text-align: center;
+	border-top: 1px gray solid;
+	border-bottom: 1px gray solid;
+}
+.navbar a {
+	text-decoration: none;
+	font-weight: bold;
+	color: #3B546E;
 }
